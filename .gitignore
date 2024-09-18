@@ -1,0 +1,41 @@
+parser_env/
+.idea/
+
+# Кеш-компиляции
+__pycache__/
+*.py[cod]
+*.so
+
+# Виртуальные среды
+venv/
+.venv/
+
+# Bot_telegram
+Bot_telegram/data_base
+
+# Carrefour
+carrefour/carrefour_data_pampers
+
+# Coto
+coto/coto_data_panales
+
+# data
+data
+
+# database
+database
+
+# dia
+dia/dia_data_pampers
+
+# farmacity
+farmacity/farmacity_data_pampers
+
+
+# jumbo
+jumbo/jumbo_data_pampers
+
+
+jup_sql_test.ipynb
+start_script_main.sh
+start_script.sh
